@@ -1,0 +1,13 @@
+footer{
+  background-color: #023c3b;
+  display: flex;
+  justify-content: space-around;
+  padding: 17px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.consideracoesfinais{
+  font-size: .7em;
+}

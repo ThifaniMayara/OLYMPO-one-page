@@ -1,0 +1,24 @@
+header{
+  background-color: #023c3b;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 25px;
+  align-items: center;
+}
+
+.logo{
+  color: #e2b101;
+  font-size: 1.6em;
+
+}
+
+.link{
+  font-family: 'Inconsolata';
+  text-decoration: none;
+  display: inline;
+  color: #e2b101;
+  transition: 0.5s;
+}
+.link:hover{
+  color: #03b3b0;
+}

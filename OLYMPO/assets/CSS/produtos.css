@@ -1,0 +1,54 @@
+.produtos__img{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+
+.produto__img--item--bloco{
+  border: 3px double #c39a07;
+  border-radius: 10%;
+  background: linear-gradient(#023c3b49, #000);
+  text-align: center;
+  padding-bottom: 20px;
+  transition: .4s;
+  margin-bottom: 3em;
+}
+.produto__img--item--bloco:hover{
+  border-color: #03b3b0;
+}
+
+.produto__img--item{
+  max-width: 270px;
+  padding: 20px 30px;
+
+}
+
+.produto__img--nome{
+  color: #c39a07;
+  font-size: 1.25em;
+}
+
+.produto__img--valor small{
+  font-size: 15px;
+}
+
+.produto__img--botao{
+  margin-top: .5em;
+  border: 2px solid #c39a0767;
+  background-color: #023c3b49;
+  border-radius: 10%;
+  padding: 5px;
+}
+
+.modalBootstrap__cabecalho{
+  background-color: #011211;
+}
+
+.modalBootstrap__corpo{
+  background-color: #000;
+}
+
+.modalBootstrap__rodape{
+  background-color: #011211;
+}

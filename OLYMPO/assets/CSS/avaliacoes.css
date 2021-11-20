@@ -1,0 +1,24 @@
+.avaliacoes{
+  margin: 10px 2em 15px 2em;
+  display: inline-block;
+  flex-wrap: wrap;
+}
+
+.avaliacoes__fotoUsuario{
+  width: 40px;
+  height: 40px;
+  margin-right: .5em;
+}
+
+.avaliacoes__nomeUsuario{
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.avaliacoes__comentario{
+  font-family: 'Nunito Sans';
+}
+
+.avaliacoes__data{
+  font-size: .5em;
+}

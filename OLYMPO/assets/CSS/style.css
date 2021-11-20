@@ -1,0 +1,18 @@
+body{
+  background: linear-gradient(#1c2128, #000);
+}
+
+.titulo{
+  color: #e2b101d7;
+  font-size: 1.4em;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 2.5em 0 1em 0;
+}
+.texto{
+  font-family: 'Nunito Sans';
+   font-size: 1em;
+   line-height: 1.5em;
+   color: #9e9e9e;
+   margin: 10px 4em;
+ }
